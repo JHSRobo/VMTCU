@@ -1,0 +1,11 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~thrusterToggle" : \b [bool] Thrusters enabled safety param min: False, default: False, max: True
+- \b "~depthHoldToggle" : \b [bool] Enable depth hold min: False, default: False, max: True
+- \b "~targetDepth" : \b [double] Choose depth to be held min: 0.0, default: 7.5, max: 15.0
+- \b "~linearSense" : \b [double] Linear ROV Sense min: 0.0, default: 0.5, max: 1.0
+- \b "~angularSense" : \b [double] Rotational ROV Sense min: 0.0, default: 0.5, max: 1.0
+- \b "~verticalSense" : \b [double] Vertical ROV Sense min: 0.0, default: 0.5, max: 1.0
+

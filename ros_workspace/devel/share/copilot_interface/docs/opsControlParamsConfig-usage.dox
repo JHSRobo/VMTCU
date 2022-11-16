@@ -1,0 +1,6 @@
+\subsubsection usage Usage
+\verbatim
+<node name="ops_interface" pkg="copilot_interface" type="ops_interface">
+</node>
+\endverbatim
+

@@ -1,0 +1,2 @@
+cameras/camera_viewer:copilot_interface:launch_files:rov_control
+-DCATKIN_DEVEL_PREFIX=/home/jhsrobo/Github/VMTCU/ros_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/jhsrobo/Github/VMTCU/ros_workspace/install -G Unix Makefiles

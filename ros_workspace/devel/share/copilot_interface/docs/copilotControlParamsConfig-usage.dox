@@ -1,0 +1,12 @@
+\subsubsection usage Usage
+\verbatim
+<node name="copilotControls" pkg="copilot_interface" type="copilotControls">
+  <param name="thrusterToggle" type="bool" value="False" />
+  <param name="depthHoldToggle" type="bool" value="False" />
+  <param name="targetDepth" type="double" value="7.5" />
+  <param name="linearSense" type="double" value="0.5" />
+  <param name="angularSense" type="double" value="0.5" />
+  <param name="verticalSense" type="double" value="0.5" />
+</node>
+\endverbatim
+
